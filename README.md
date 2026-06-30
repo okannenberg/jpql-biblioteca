@@ -1,3 +1,1 @@
 # jpql-library
-
-carlos
